@@ -1,2 +1,9 @@
-# codigo-c-
-trabajos en aula 
+#include<iostream>
+using namespace std;
+int main(){
+
+
+
+
+return 0;
+}
