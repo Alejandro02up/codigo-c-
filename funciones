@@ -1,0 +1,19 @@
+#include<iostream>
+#include<Math.h>
+
+using namespace std;
+
+int main(){
+float radio,altura,volumen;
+do{
+int opcion;
+    cout<<"MENU"<<endl;
+    cout<<"1. NOTAS"<<endl;
+    cout<<"2. AREA CILINDRO"<<endl;
+    cout<<"0. salir"<<endl;
+    cin>>opcion;
+    While(opcion){
+    casec 1:
+
+    case 2:
+    
